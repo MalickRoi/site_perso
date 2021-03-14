@@ -25,7 +25,7 @@ a{
 }
 
 div.cover{
-    background: url('ressources/cover_overlay.png') no-repeat center/100% 100%, url('ressources/cover.jpg') no-repeat center/cover;
+    background: url('cover_overlay.png') no-repeat center/100% 100%, url('cover.jpg') no-repeat center/cover;
     height: 360px;
     position: relative;
 }
@@ -114,14 +114,14 @@ div.section{
 }
 
 div.section-grise1{
-    background: url('RESSOURCES/triangle2white.svg') no-repeat center bottom -1px/100%;
+    background: url('triangle2white.svg') no-repeat center bottom -1px/100%;
     background-color: var(--color2);
     height: 100%;
     padding-bottom: 70px;
 }
 
 div.section-grise2{
-    background: url('RESSOURCES/triangle1white.svg') no-repeat center top/100%;
+    background: url('triangle1white.svg') no-repeat center top/100%;
     background-color: var(--color2);
     height: 100%;
     padding-top: 80px;
@@ -203,7 +203,7 @@ p.frame-title{
 div.portfolio-header{
     height: 90px;
     background-color: #000;
-    background: url('ressources/header.jpg') no-repeat center/cover;
+    background: url('header.jpg') no-repeat center/cover;
     position: relative;
 }
 
